@@ -43,10 +43,14 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Kamri Williams
 # URL for the Image of the Author
-author-image: https://www.canva.com/design/DAG7ohHpibE/FCJHcnDOIueN1pDjTydOLQ/view?utm_content=DAG7ohHpibE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd93c2de463
+author-image: /assets/images/author_image.jpeg
 
 # 60 Words About the Author
-author-about: Hi, I’m Kamri. I’m a data professional who enjoys turning messy, real-world information into clear, useful insights. I like work that sits between analysis and context — where understanding why something is happening matters just as much as the numbers themselves. I’m especially interested in applied analytics and AI, and I enjoy projects that require both structured thinking and interpretation. I care about clarity, asking good questions, and making sure the work can actually be understood by people who didn’t write the code. Outside of formal projects, I like documenting what I’m learning and building things in public as I grow in data and tech.
+author-about: Hi, I’m Kamri. I’m a data professional who enjoys turning messy, real-world information into clear, useful insights. 
+I like work that sits between analysis and context — where understanding why something is happening matters just as much as the numbers themselves. 
+I’m especially interested in applied analytics and AI, and I enjoy projects that require both structured thinking and interpretation. 
+I care about clarity, asking good questions, and making sure the work can actually be understood by people who didn’t write the code. 
+Outside of formal projects, I like documenting what I’m learning and building things in public as I grow in data and tech.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/kamriwilliams
@@ -97,6 +101,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
